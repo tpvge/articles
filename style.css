@@ -1,0 +1,13 @@
+.article{
+    background-color: rgb(161, 161, 255);
+    padding:  5px;
+    border: 1px solid black;
+    border-radius: 10px;
+    
+}
+.block{
+    width: 50%;
+}
+.link--to--article{
+    padding: 10px;
+}
